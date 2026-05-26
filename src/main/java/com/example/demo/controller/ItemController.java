@@ -25,7 +25,7 @@ public class ItemController {
 	    this.categoryRepository = categoryRepository;
 	}
 	//TEST Changes 1
-
+    //TEST Changes 2 
 	// 商品一覧表示
 	@GetMapping("/")
 	public String index(Model model) {
