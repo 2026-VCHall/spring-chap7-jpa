@@ -24,6 +24,7 @@ public class ItemController {
 	    this.itemRepository = itemRepository;
 	    this.categoryRepository = categoryRepository;
 	}
+	//TEST Changes 1
 
 	// 商品一覧表示
 	@GetMapping("/")
