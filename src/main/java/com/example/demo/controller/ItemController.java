@@ -27,6 +27,7 @@ public class ItemController {
 	//TEST Changes 1
     //TEST Changes 2
 	//TEST Changes 4
+	//TEST Changes 5
 	// 商品一覧表示
 	@GetMapping("/")
 	public String index(Model model) {
